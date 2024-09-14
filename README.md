@@ -17,6 +17,7 @@ src/
   ├── styles/               # Styles for the game interface
   │   └── main.scss         # Main SCSS file for styling the game UI
   └── index.html            # Main HTML file that renders the game
+```
 
 ## Technologies used
 - HTML
